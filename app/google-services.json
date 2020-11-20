@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "804282958978",
+    "firebase_url": "https://android-cbcce.firebaseio.com",
+    "project_id": "android-cbcce",
+    "storage_bucket": "android-cbcce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804282958978:android:f43a5b86577ead6d4ca09b",
+        "android_client_info": {
+          "package_name": "br.com.ciolfi.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804282958978-9rkm1kqb9jld94vfojh72p414ei8mufi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ciolfi.chat",
+            "certificate_hash": "a4d43db9bcdf3cc5a431867d00fc004a4f2154b4"
+          }
+        },
+        {
+          "client_id": "804282958978-mv9ofoskggd554hcgd814k4cbciqsvq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR9U2HLeEFTJiGgShYlQKAkZOPua4yzic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804282958978-mv9ofoskggd554hcgd814k4cbciqsvq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
